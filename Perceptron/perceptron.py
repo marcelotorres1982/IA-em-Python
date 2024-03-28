@@ -21,7 +21,7 @@ pergunta2 = int(input('Digite o segundo número: '))
 saida_perceptron = perceptron.predict([[pergunta1,pergunta2]])
 
 # Verificando a saída
-if pergunta1 == 1:
+if saida_perceptron == 1:
     print('A saída é 1, ou seja, o operador é AND')
 else:
     print('A saída é 0, ou seja, o outro operador')
