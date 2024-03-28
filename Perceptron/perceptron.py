@@ -1,3 +1,5 @@
+# Importando Perceptron da lib scikit-learn
+
 from sklearn.linear_model import Perceptron
 
 # Definindo as entradas e saídas
