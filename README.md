@@ -8,3 +8,7 @@ Solicita ao usuário que insira dois números.
 Usa o Perceptron treinado para prever a saída com base nos números inseridos pelo usuário.
 Imprime a saída. Se o primeiro número inserido pelo usuário for 1, imprime que a saída é 1 e que o operador é AND. Caso contrário, imprime que a saída é 0.
 Portanto, este código é essencialmente uma implementação de um Perceptron para realizar a operação lógica AND. Ele pede ao usuário que insira dois números e, em seguida, usa o Perceptron treinado para prever a saída da operação AND desses dois números. A saída é então impressa.
+
+
+Créditos ao professor Elvis do canal Codando em 10: 
+https://www.youtube.com/@codandoem10
